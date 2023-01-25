@@ -1,3 +1,10 @@
-@extends(layout.app);
+@extends('layouts.app')
 
-<h1>ciao</h1>
+@section('content')
+    <div class="container">
+      
+           PROVA
+        </div>
+
+    </div>
+@endsection
